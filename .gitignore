@@ -1,4 +1,5 @@
 GenerateDto/bin/*
 GenerateDto/obj/*
+GenerateDto/nupkg/*
 .idea
 .config
