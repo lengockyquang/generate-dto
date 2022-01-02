@@ -1,4 +1,9 @@
 # Auto-Generated Data Transfer Object Model
+## Introduction
+- Help quickly create entity dto files with same CRUD actions
+
+## Prerequisites
+- .NET 5
 
 ## 1. Pack
 - Go to folder level of GenerateDto.csproj file
