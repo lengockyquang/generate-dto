@@ -1,0 +1,4 @@
+generate-dto/GenerateDto/bin/*
+generate-dto/GenerateDto/obj/*
+generate-dto/.idea
+generate-dto/.config
