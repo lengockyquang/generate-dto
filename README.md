@@ -26,5 +26,5 @@ generate-dto entity=<entity-names> namespace=<namespace-name>
 ## 4. Uninstall
 - If this tool is useless, you can uninstall it
 ```
-dotnet tool uninstall <package-id>
+dotnet tool uninstall generatedto -g
 ```
